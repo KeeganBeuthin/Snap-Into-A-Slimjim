@@ -1,4 +1,6 @@
-# My Express repository. Hi Bret
+# My Express repository.
+
+# Hi Bret
 
 This server is a very basic usage of node that starts a sample server
 
