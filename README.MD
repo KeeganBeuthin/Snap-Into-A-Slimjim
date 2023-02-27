@@ -1,8 +1,8 @@
 # My Express repository.
-
+This server is a very basic usage of node that starts a sample server
 # Hi Bret
 
-This server is a very basic usage of node that starts a sample server
+This server utilises nodemon to make working with it easier
 
 # use npm run devStart in order to begin the servers operations
 
